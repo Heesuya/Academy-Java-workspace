@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;kh.java.function&apos; to &apos;kh.java.func&apos;&#x0D;&#x0A;- Original project: &apos;Java11_Exception&apos;&#x0D;&#x0A;- Original element: &apos;Java11_Exception/src/kh.java.function&apos;&#x0D;&#x0A;- Renamed element: &apos;Java11_Exception/src/kh.java.func&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;kh.java.function&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;kh.java.function" name="kh.java.func" qualified="false" references="true" stamp="1716260324841" textual="false" version="1.0"/>
+</session>

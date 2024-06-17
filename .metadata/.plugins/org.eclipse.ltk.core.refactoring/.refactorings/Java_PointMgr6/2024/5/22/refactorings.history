@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;kr.co.iei.point.vo&apos; to &apos;kr.co.iei.point.model.vo&apos;&#x0D;&#x0A;- Original project: &apos;Java_PointMgr6&apos;&#x0D;&#x0A;- Original element: &apos;Java_PointMgr6/src/kr.co.iei.point.vo&apos;&#x0D;&#x0A;- Renamed element: &apos;Java_PointMgr6/src/kr.co.iei.point.model.vo&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;kr.co.iei.point.vo&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;kr.co.iei.point.vo" name="kr.co.iei.point.model.vo" qualified="false" references="true" stamp="1716771483580" textual="false" version="1.0"/>
+</session>

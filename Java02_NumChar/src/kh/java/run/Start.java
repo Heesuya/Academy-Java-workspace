@@ -1,0 +1,16 @@
+package kh.java.run;
+//1. import
+import kh.java.func.TestClass;
+public class Start {
+
+	public static void main(String[] args) {
+		//2. 약어설정
+		TestClass tc = new TestClass();
+		//3. 메소드 실행
+		//tc.test1();
+		tc.test2();
+		//tc.test3();
+		//tc.test4();
+	}
+
+}
